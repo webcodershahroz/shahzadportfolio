@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.mycontainer {
+  margin: auto;
+  height: 80vh;
+  width: 100%;
+  background: linear-gradient(to right, #f5dcdc, rgb(107 142 207), rgb(134 148 127));
+  padding: 10px;
+}
+
+.my-pic {
+  height: 60vh;
+}
+
+.contact-light {
+  background: center center / cover no-repeat url(/src/img/contactbackground.jpg);
+}
+
+.contact-dark {
+  background: center center / cover no-repeat url(/src/img/contactbackgrounddark.jpg);
+  color: white;
+}
+
+#previous:hover,
+#next:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.card {
+  border: none;
+}
