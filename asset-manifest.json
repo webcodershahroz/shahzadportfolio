@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shahzadportfolio/static/css/main.38910969.css",
+    "main.js": "/shahzadportfolio/static/js/main.24c1d1a5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/shahzadportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mypic.png": "/shahzadportfolio/static/media/mypic.b494e430c2bcc952f177.png",
+    "static/media/contactbackground.jpg": "/shahzadportfolio/static/media/contactbackground.e833793675643eb9cfdb.jpg",
+    "static/media/fiverr.png": "/shahzadportfolio/static/media/fiverr.b5eec55b3c8ef41893c7.png",
+    "static/media/contactbackgrounddark.jpg": "/shahzadportfolio/static/media/contactbackgrounddark.0e21fb18ef7b5e00ffc9.jpg",
+    "static/media/upwork.png": "/shahzadportfolio/static/media/upwork.6da5bf0737747be6f533.png",
+    "index.html": "/shahzadportfolio/index.html",
+    "main.38910969.css.map": "/shahzadportfolio/static/css/main.38910969.css.map",
+    "main.24c1d1a5.js.map": "/shahzadportfolio/static/js/main.24c1d1a5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/shahzadportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38910969.css",
+    "static/js/main.24c1d1a5.js"
+  ]
+}
